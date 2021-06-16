@@ -1,0 +1,11 @@
+# Sprites and sfx
+Graphics/
+Audio/
+Animations/
+Data/
+
+#Build
+PE Import All.exe
+python38.dll
+main.build/
+PE Import All.zip
